@@ -1,4 +1,4 @@
-![Banner](https://media.discordapp.net/attachments/835713495890264086/1291714214431297577/El_texto_del_parrafo.png?ex=67011a1b&is=66ffc89b&hm=11babb35b6495913be3ef67978cb786234b2bcc53158b37fb81157e0be507fc9&=&format=webp&quality=lossless)
+![Banner](https://media.discordapp.net/attachments/609256353793441809/1291718190501593099/Diseno_sin_titulo.png?ex=67011dcf&is=66ffcc4f&hm=bc26886fb304a034539ee31275e9e9e835d0ca6740b0679ae666ad916ebadf25&=&format=webp&quality=lossless)
 
 
 
