@@ -1,16 +1,15 @@
-## Hi there 👋
+# ¡Hola a todos! Soy Ander Garzón
+### Soy estudiante de Ciberseguridad en la Universidad Amerike en la Ciudad de México. Me apasiona la seguridad informática y, en especial, el pentesting, área en la que tengo conocimientos avanzados. Mi objetivo es seguir creciendo en el campo de la ciberseguridad y ayudar a proteger sistemas y redes de posibles amenazas.
 
-<!--
-**AnderrGZ/AnderrGZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Un poco sobre mí:
+📚 Actualmente, me encuentro estudiando la carrera de Ciberseguridad en la Universidad Amerike en la Ciudad De México.
 
-Here are some ideas to get you started:
+🕹️ Antes de adentrarme en el mundo de la seguridad informática, fui jugador profesional de Valorant, lo que me enseñó la importancia del trabajo en equipo, la estrategia y la perseverancia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Estoy enfocado en proyectos relacionados con pentesting y seguridad de redes.
+
+Conéctate conmigo:
+📸 [Instagram](https://www.instagram.com/brokeenander/)
+### "Cada día es una nueva oportunidad para aprender algo nuevo, y los libros son mis mejores aliados en este viaje continuo de conocimiento."
+
+![AnderrGZ's Stats](https://github-readme-stats.vercel.app/api?username=AnderrGZ&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
